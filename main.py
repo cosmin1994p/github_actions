@@ -1,9 +1,4 @@
-def hello():
-  print("hi")
-
-
-def bye():
-  print("bye")
-
-
-print(hello())
+def my_function():
+    print("Hello")  # 4 spaces
+    if True:
+        print("World")  # 8 spaces from start
